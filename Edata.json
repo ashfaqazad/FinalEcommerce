@@ -1,0 +1,57 @@
+[
+  {
+      "title": "This is an i5 8th Generation (PC)",
+      "image": "https://bedarimillat.com/Images/laptop.jpg",
+      "rating": 4,
+      "price": 240
+  },
+  {
+      "title": "This is the Comfort Chair",
+      "image": "https://bedarimillat.com/Images/Chair.webp",
+      "rating": 5,
+      "price": 5000
+  },
+  {
+      "title": "This is the Watch for men",
+      "image": "https://bedarimillat.com/Images/watch.webp",
+      "rating": 3,
+      "price": 10000
+  },
+  {
+      "title": "This is the T-shirt for men",
+      "image": "https://bedarimillat.com/Images/t-shirt.webp",
+      "rating": 3,
+      "price": 500
+  },
+  {
+      "title": "This is the Shirt for men",
+      "image": "https://bedarimillat.com/Images/shirts.webp",
+      "rating": 4,
+      "price": 1000
+  },
+  {
+      "title": "This is the Leather Jacket for men",
+      "image": "https://bedarimillat.com/Images/jacket.webp",
+      "rating": 4,
+      "price": 240
+  },
+  {
+      "title": "IPhone Mobile",
+      "image": "https://bedarimillat.com/Images/mobile.jpg",
+      "rating": 3,
+      "price": 100000
+  },
+  {
+      "title": "Sun Glasses",
+      "image": "https://bedarimillat.com/Images/glasses.jpg",
+      "rating": 3,
+      "price": 3000
+  },
+  {
+      "title": "High Quality Airpods",
+      "image": "https://bedarimillat.com/Images/airpod.webp",
+      "rating": 4,
+      "price": 5000
+  }
+]
+
